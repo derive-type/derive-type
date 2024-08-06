@@ -51,5 +51,9 @@ a:link, a:hover, a:visited{
 }
 
 
+img{
+max-width:900px;
+	width:100%;
+}
 
 
